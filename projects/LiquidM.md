@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Liquid-Metal-Drops2.jpg
 title: "LiquidM"
 date: 2022
 published: true
