@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Liquid-Metal-Drops2.jpg
-title: "LiquidM"
+title: "Liquid Metal"
 date: 2022
 published: true
 labels:
@@ -17,23 +17,10 @@ summary: "My team developed a device to actuate liquid metal."
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
+Galinstan Indium (GaIn) is an alloy in which is liquid at room temperature. Unlike its adversary, Mercury, it is non-toxic to humans. With the physical capabilities of being a liquid, along with the thermal and electrical capabilities of being a metal, we can use this alloy as a reconfigurable circuit. Our goal is to apply a voltage through a specified substrate filled with NaOH in order to actuate this liquid metal. By apllying a voltage across liquid metal, an EDL (electron double layer) is formed and allows it to move towards our annode.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In order to obtain a basic understanding of how liquid metal behaves, we first created a substrate of a square 3cm x 3cm cutout from PDMS (polydimethylsiloxane). This substrate was then filled with a ball of LM (approximately 0.5cm in diameter) and NaOH solution. Four electrodes of Nickel strips were placed on each side of the walls. Applying a voltage across each electrode provided movement in each direction. This is a very useful tool for hotspot cooling since liquid metal is thermally conductive. As the computer world advances and liquid cooling becomes more apparent, our future could look towards using liquid metal.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In an ideal form of use from liquid metal is to use it for circuitry. To accomplish this, we fabricated microchannels in widths scaling from 30 microns to 150 microns. To put into perspective, an average person's hair is about 75 microns. This will allow us to open our eyes to reconfigurable circuits. These circuits could stem out to projects such as antennas, IRS (intelligent reflecting surfaces), and so forth. two forms of actuation is possible. First is CEW (continuous electro wedding). By applying a DC signal across our liquid metal, we are able to achieve CEW. However, if we apply a AC signal across our liquid metal, we achieve ECA(electro capillary action). The main difference is that instead of just moving liquid metal as a whole, it starts stretching in the direction of actuation. This is very useful in increasing height in our antennas (to change frequencies), and changing shapes in IRS surfaces (to change phases).
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+We can very much hope to see liquid metal in the future to come. In our generation of networking, our mobile devices run 5G frequencies in the gigahertz range. 6G frequencies require terrahertz ranged signals. One way to accomplish this is to use liquid metal circuits in the nanometer level. This is only a prelude the main uses of liquid metal and the capabilities to come.
