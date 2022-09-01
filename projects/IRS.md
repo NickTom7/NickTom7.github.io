@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/irs.png
-title: "Liquid Metal"
+title: "Intelligent Reflecting Surfaces"
 date: 2022
 published: true
 labels:
