@@ -13,7 +13,6 @@ summary: "My team developed a device to actuate liquid metal."
 ---
 
 
-</div>
 Galinstan Indium (GaIn) is an alloy in which is liquid at room temperature. Unlike its adversary, Mercury, it is non-toxic to humans. With the physical capabilities of being a liquid, along with the thermal and electrical capabilities of being a metal, we can use this alloy as a reconfigurable circuit. Our goal is to apply a voltage through a specified substrate filled with NaOH in order to actuate this liquid metal. By applying a voltage across liquid metal, an EDL (electron double layer) is formed and allows it to move towards our annode.
 
 In order to obtain a basic understanding of how liquid metal behaves, we first created a substrate of a square 3cm x 3cm cutout from PDMS (polydimethylsiloxane). This substrate was then filled with a ball of LM (approximately 0.5cm in diameter) and NaOH solution. Four electrodes of Nickel strips were placed on each side of the walls. Each electrode is connected to our power source. Applying a voltage across each electrode provided movement in each direction. A circuit was also made and programmed through an arduino. An arduino was useful to record velocity as it created a definite time interval for actuation. This project is a very useful tool for hotspot cooling since liquid metal is thermally conductive. As the computer world advances and liquid cooling becomes more apparent, our future could look towards using liquid metal.
