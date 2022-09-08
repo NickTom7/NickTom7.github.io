@@ -1,14 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "Not all games come with a prize..."
+title: "Not all games come with prizes"
+# All dates must be YYYY-MM-DD format!
 date: 2022-09-08
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+- Questions
+- Answers
+- StackOverflow
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/javascript-illustration.png">
+'https://www.tutorialrepublic.com/javascript-tutorial/'
 
-[TechFolios](https://stackoverflow.com/questions/73655613/hi-i-can-not-make-a-slider-by-using-glide-js-in-react-please-help-me)
-  Here we 
+
+
+## Play the game correctly.... or not?
