@@ -10,8 +10,8 @@ labels:
 - Answers
 - StackOverflow
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/javascript-illustration.png">
-'https://www.tutorialrepublic.com/javascript-tutorial/'
+<img width="200px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
+'https://jessehouwing.net/community-effectively-use-stackoverflow/'
 
 
 
