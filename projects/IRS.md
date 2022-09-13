@@ -9,9 +9,11 @@ labels:
   - Robotics
   - Arduino
   - Python
-summary: "My team is currently developing an IRS surface to relfect and boost signals in places that are hard to reach."
+summary: "My team is currently developing an IRS surface in order to relfect and boost signals."
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/Liquid-Metal-Drops2.jpg">
+
+Utilizing our last project on liquid metal, our team wants to use properties of liquid in order to configure shapes to reflect signals. We will create a rectangular array made of liquid metal. Following a paper from a previous researcher named Wong, we plan to recreate an IRS circuit composed of a 15 x 15 array of unit cells called "elements".
 
 Galinstan Indium (GaIn) is an alloy in which is liquid at room temperature. Unlike its adversary, Mercury, it is non-toxic to humans. With the physical capabilities of being a liquid, along with the thermal and electrical capabilities of being a metal, we can use this alloy as a reconfigurable circuit. Our goal is to apply a voltage through a specified substrate filled with NaOH in order to actuate this liquid metal. By applying a voltage across liquid metal, an EDL (electron double layer) is formed and allows it to move towards our annode.
 
