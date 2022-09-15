@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Javascript 1"
+title: "What does my brain think about Javascript?"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
 published: true
