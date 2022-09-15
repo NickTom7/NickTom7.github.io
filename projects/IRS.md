@@ -11,7 +11,7 @@ labels:
   - Python
 summary: "My team is currently developing an IRS surface in order to relfect and boost signals."
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/Liquid-Metal-Drops2.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/2-Figure1-1.png">
 https://www.semanticscholar.org/paper/Intelligent-Reflecting-Surface-Enhanced-Wireless-Wu-Zhang/50910f816336a02b4182468d1cc8c42e8189f24c/figure/0
 
 
