@@ -11,7 +11,6 @@ labels:
   - Python
 summary: "My team developed a device to actuate liquid metal."
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/Screenshot 2022-09-15 112943.png"> <img width="200px" class="rounded float-start pe-4" src="../img/quartercmall.jpg">
 
 Galinstan Indium (GaIn) is an alloy in which is liquid at room temperature. Unlike its adversary, Mercury, it is non-toxic to humans. With the physical capabilities of being a liquid, along with the thermal and electrical capabilities of being a metal, we can use this alloy as a reconfigurable circuit. Our goal is to apply a voltage through a specified substrate filled with NaOH in order to actuate this liquid metal. By applying a voltage across liquid metal, an EDL (electron double layer) is formed and allows it to move towards our annode.
 
@@ -22,3 +21,5 @@ In an ideal form of use from liquid metal is to use it for circuitry. To accompl
 We can very much hope to see liquid metal in the future to come. In our generation of networking, our mobile devices run 5G frequencies in the gigahertz range. 6G frequencies require terrahertz ranged signals. One way to accomplish this is to use liquid metal circuits in the nanometer level. This is only a prelude the main uses of liquid metal and the capabilities to come.
 
 <img width="200px" class="rounded float-start pe-4" src="../img/Liquid-Metal-Drops2.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Screenshot 2022-09-15 112943.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../img/quartercmall.jpg">
