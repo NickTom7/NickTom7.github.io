@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering Interests"
+title: "No, not HARDware, SOFTware!"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-01
 published: true
