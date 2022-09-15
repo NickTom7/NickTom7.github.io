@@ -12,6 +12,17 @@ labels:
 summary: "My team is currently developing an IRS surface in order to relfect and boost signals."
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/Liquid-Metal-Drops2.jpg">
+https://www.semanticscholar.org/paper/Intelligent-Reflecting-Surface-Enhanced-Wireless-Wu-Zhang/50910f816336a02b4182468d1cc8c42e8189f24c/figure/0
+
+
+
+
+
+
+
+
+
+
 
 Modern day internet providers use 2 wifi signals: a higher bandwidth (5G) and a lower bandwidth. Wifi signals normally lose 3DB while passing through the walls of your house. 5G bandwidths use higher frequencies that generally have a shorter range but offer faster speeds. In order to extend the range of these frequencies, we want to create an intelligent reflecting surface (IRS). Utilizing our last project on liquid metal, our team wants to use properties of liquid in order to configure shapes to reflect signals. We will create a rectangular array made of liquid metal. Following a paper from a previous researcher named Wong, we plan to recreate an IRS circuit composed of a 15 x 15 array of unit cells called "elements". These arrays in work together in parallel to produce two state: on and off. The on state will reflect an incident signal with a phase shift of 180.
 
