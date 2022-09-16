@@ -11,8 +11,6 @@ labels:
   - Python
 summary: "My team is currently developing an IRS surface in order to relfect and boost signals."
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/2-Figure1-1.png">
-
 
 <div class="text-center p-4">
   <img width="200px" src="../img/Liquid-Metal-Drops2.jpg" class="img-thumbnail" >
