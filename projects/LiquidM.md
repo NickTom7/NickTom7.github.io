@@ -15,7 +15,7 @@ summary: "My team developed a device to actuate liquid metal."
 <div class="text-center p-4">
   <img width="200px" src="../img/Liquid-Metal-Drops2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/Screenshot 2022-09-15 112943.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/quartercmall.jpg" >
+  <img width="200px" src="../img/quartercmall.jpg" >
 </div>
 
 Galinstan Indium (GaIn) is an alloy in which is liquid at room temperature. Unlike its adversary, Mercury, it is non-toxic to humans. With the physical capabilities of being a liquid, along with the thermal and electrical capabilities of being a metal, we can use this alloy as a reconfigurable circuit. Our goal is to apply a voltage through a specified substrate filled with NaOH in order to actuate this liquid metal. By applying a voltage across liquid metal, an EDL (electron double layer) is formed and allows it to move towards our annode.
