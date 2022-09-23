@@ -6,7 +6,9 @@ title: "Auto-correct is not only on my phone?"
 date: 2022-09-22
 published: true
 labels:
-  - Engineering 
+  - Engineering
+  - Eslint
+  - IntelliJ
 ---
 
 <div class="text-center p-4">
@@ -15,6 +17,7 @@ labels:
 </div>
 
 'https://dev.to/lauragift21/quick-guide-to-linting-javascript-codebase-with-eslint-dcf'
+</div>
 'https://www.jetbrains.com/idea/'
 
 
