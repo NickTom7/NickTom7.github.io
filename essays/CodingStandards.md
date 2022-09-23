@@ -8,8 +8,12 @@ published: true
 labels:
   - Engineering 
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/032f30a0-f2e1-11e5-8676-4676c2ca102a_canln7.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/intellij-idea_1280x800.png">
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/032f30a0-f2e1-11e5-8676-4676c2ca102a_canln7.png" class="img-thumbnail" >
+  <img width="200px" src="../img/intellij-idea_1280x800.png" class="img-thumbnail" >
+</div>
+
 'https://dev.to/lauragift21/quick-guide-to-linting-javascript-codebase-with-eslint-dcf'
 'https://www.jetbrains.com/idea/'
 
