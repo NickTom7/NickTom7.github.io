@@ -11,13 +11,13 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/032f30a0-f2e1-11e5-8676-4676c2ca102a_canln7.png" class="img-thumbnail" >
-  <img width="200px" src="../img/intellij-idea_1280x800.png" class="img-thumbnail" >
+  <img width="200px" src="../img/canva-photo-editor-8-7.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/main.jpg" class="img-thumbnail" >
 </div>
 
-'https://dev.to/lauragift21/quick-guide-to-linting-javascript-codebase-with-eslint-dcf'
+'[https://dev.to/lauragift21/quick-guide-to-linting-javascript-codebase-with-eslint-dcf](https://kids.frontiersin.org/articles/10.3389/frym.2015.00001)'
 
-'https://www.jetbrains.com/idea/'
+'[https://www.jetbrains.com/idea/](https://www.forbes.com/sites/forbestechcouncil/2019/02/22/want-to-learn-coding-check-out-these-resources-recommended-by-tech-experts/?sh=658c99fb5d6f)'
 
 
 
