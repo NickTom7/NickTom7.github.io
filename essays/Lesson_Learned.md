@@ -7,7 +7,8 @@ date: 2022-12-14
 published: true
 labels:
   - Engineering
-  - Design Patterns
+  - Software Engineering
+  - ICS
 ---
 
 <div class="text-center p-4">
@@ -21,9 +22,11 @@ labels:
 
 
 
-## E63 Design Patterns
-Ever seen reused/recycled code? is it copyright, plagiarism or just common knowledge? To me, its all the above! Formerly, design patterns are reusable solutions to commonly occuring problems. For example, a simple switch function. Three variables: A, B, Temp. To switch A and B, let Temp = A, A = B and B = A. For a simple, yet effective way of switching data within variables, why change it? Someone once said "Why fix what's not broken" (I don't know the original creator of that quote). Similarly, larger functions that work may need to be tinkered to fit more specific designs, but if it works towards the same goal, why not use it?
+## What Happened???
+Over the course of fall 2022 semester at UH, I took a class called ICS314. It was the first and last ICS class I ever took. Upon missing the first day of class not knowing that the room was below the library, I was very lost. By the time the second day came, I was on time. However, I had no idea there was an online website and discord for the class, thus making me miss my first two assignments. It was only on the second week I was able to catch up and get on gear with the rest of the class. Lucky for me, I didnt miss any tutorials or more important things.
 
-One good example of design patterns we see in coding nowdays is Apple and Android. While Apple made a business decision and spend their time and money in marketing, Android was busy spending their resources into research. It is obvious that the two companies are competitors, but when and where do we draw the line on copyright? Over time, Android released new features that Apple put forward shortly after. It is not to my knowledge that Apple "copied" their designs, but there is much evidence that points to it. For example, lockscreens, widgets and keyboards. Is there a patten to code or will we see this more in the future? I'm not complaining, as long as I get to use all these features, thats all that matters to a consumer like me.
+The first thing we went over in class was a review on basic programming and object oriented programming. This was to prep us on what we will be learning the entirety of the semester. Next was a tutorial program on Java, Javascript, and CSS. Using templates, we started to break down and learn what the coding behind it meant. In my opinion, besides all the long tedious and extensive ammount of homework, comes a video by the instructor that walks you through step by step. Many will argue that learning things on your own is better in the long run, but I think that if you are truly stuck and cant find the answer, it's just a waste of time.
 
-Design patterns to me is the integration and advancement of everything coding. Open source softwares are literally built upon this. With the technological world continuing to evolve, the main structures of coding are bound to become reoccuring. If microsoft builds a PS6, they're not going to start from scratch, they're going to build off the PS5 and make improvements. Following this example, I've realized no matter what programming language you use, everything stems off of one another. It's like letters of a language! During my time learning Java, many things were based off of each other. Learning CSS, we used predefined bootstrap code as well as meteor templates. Design patters are bound to occur anywhere and everywhere. It would actually surprise me if there were technology in this day that does not use any design patterns at all.
+The last thing we needed to do this semester was to display what we have learned by compiling a project. This project was a group project meant to simulate working in teams. For our project we used the meteor template to implement a website to help students study. This website allows the user to make quizzes and take them. They can also take other users quizzes but only edit their own. They also get to create a profile taht others can view as well.
+
+This course has taught me many things. This is actually my first time learning Java so I am very grateful for that. I've also learned how to write in HTML and work in an actual team. This team is the first team I got to work with that did not have any inactive members. MOving forward, I hope to build off of this experience and be a better asset to any future teams I work on.
