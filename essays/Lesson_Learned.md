@@ -13,7 +13,7 @@ labels:
 
 <div class="text-center p-4">
   <img width="200px" src="../img/ICS.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/Teamwork.jpeg-thumbnail" >
+  <img width="200px" src="../img/Teamwork.jpeg" class="img-thumbnail" >
 </div>
 
 '[https://www.businesswire.com/news/home/20210407005355/en/ICS-Establishes-Dedicated-Medical-Device-Practice-to-Support-Technology-Driven-Healthcare-Transformation)'
