@@ -12,13 +12,13 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/canva-photo-editor-8-7.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/main.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/ICS.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/Teamwork.jpeg-thumbnail" >
 </div>
 
-'[https://dev.to/lauragift21/quick-guide-to-linting-javascript-codebase-with-eslint-dcf](https://kids.frontiersin.org/articles/10.3389/frym.2015.00001)'
+'[https://www.businesswire.com/news/home/20210407005355/en/ICS-Establishes-Dedicated-Medical-Device-Practice-to-Support-Technology-Driven-Healthcare-Transformation)'
 
-'[https://www.jetbrains.com/idea/](https://www.forbes.com/sites/forbestechcouncil/2019/02/22/want-to-learn-coding-check-out-these-resources-recommended-by-tech-experts/?sh=658c99fb5d6f)'
+'[https://www.proofhub.com/articles/how-to-improve-teamwork-and-collaboration-skills)'
 
 
 
